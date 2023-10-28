@@ -2,7 +2,7 @@
 
 This is an extension for google chrome
 
-#Language used 
+# Language used 
 - Html
 - CSS
 - Javascript
